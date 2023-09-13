@@ -1,1 +1,15 @@
-
+<!DOCTYPE html>
+<html lang= ¨pt-BR">
+    <head>
+        <meta charset= ¨UTF-8¨> 
+        <meta name= ¨viewport¨ content= ¨width=devic-width initial-scale=1.0¨>
+        <link rel="shortcut icon" href="img1.png" type="image/x-icon">
+        <title> braian </title>
+    </head>
+    <body>
+        <h1>quem sou eu ?</h1> 
+        <p>sou um genio porem pregiçoso </p>
+        <img>https://static.biologianet.com/2019/08/bicho-preguica.jpg </img>
+        <img SCR="imagem.png"alt="preguiça.com">        
+    </body>
+<html>
