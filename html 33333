@@ -1,34 +1,7 @@
 <!DOCTYPE html>
 <html lang= ¨pt-BR">
     <head>
-     <style>
-      mark{
-          backgrand-color:blue
-          }
-     </style>
-    </head>
         <meta charset= ¨UTF-8¨> 
         <meta name= ¨viewport¨ content= ¨width=devic-width initial-scale=1.0¨>
         <link rel="shortcut icon" href="img1.png" type="image/x-icon">
-        <title> braian 28/jun/2023 </title>
-    </head>
-    <body>
-        <h1>28/jun/2023</h1>h1>
-        <h1>quem sou eu ?</h1> 
-        <p>sou um genio porem preguiçoso </p>
-        <img SCR="">        
-    </body>
-</html>
-  <li><ins>jogar futbol </ins> </li>
-        <li><ins>amo minha familia</ins></li>
-        <li><del>compre sua passagem aq preços em desconto 50%</del></li>
-        <d>
-            <ol type="i"start="s">
-        <ul><markI segunda</mark>mark</ul>
-        <ul>II terça</ul>
-        <ul>IIIquarta</ul>
-        <ul>IV qiunta</ul>
-        <ul>V sexta</ul>
-        <ul>VI sabado</ul>
-        <ul>VII domingo</ul>        
-        </d>
+        <title> braian </title>
