@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport"content="width=device-width, initial-scale1.0">
+    <title> codigo em html e css</title>
+    <link rel="stylesheet"=style.css>
+</head>
+<body>
+  <section class="carrossel">
+      <div class="carrosel-container">
+          <img scr="img.1png">
+      </div>
+    <imput type="radio" name=radio-btn" id="radio1">
+    <imput type="radio" name=radio-btn" id="radio2">
+    <imput type="radio" name=radio-btn" id="radio3">
+    <imput type="radio" name=radio-btn" id="radio4">
+      <h1> imagens</h1>
+    <div class="slide first">
+      <img src"imagems1" alt">
+    </div>
+    <div class="slide">
+      <img src"https:"alt="img1.png">
+    </div>
+    <div class="slide">
+      <img src"bola.png" alt="imagem3">
+    </div>
+    <div class="slide">
+      <img src"https://www.bing.com/ck/a?!&&p=8f6c44c3be008dc8JmltdHM9MTcwMDYxMTIwMCZpZ3VpZD0wYTUxMTg4My0wNTNjLTZmOTEtMjE5Yi0wYjM0MDQ4ZDZlMzgmaW5zaWQ9NTYxMw&ptn=3&ver=2&hsh=3&fclid=0a511883-053c-6f91-219b-0b34048d6e38&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZW5zJkZPUk09SVFGUkJBJmlkPTNCOERERENERjY4QkQwNDkxMjJFOEUxMEQwNDFBMERERUFFRUIzMDI&ntb=1" alt="imagem4">
+    </div>
+ 
+   <div class="navigation-auto">
+       <div class=auto-btn1></div>
+       <div class=auto-btn2></div>
+       <div class=auto-btn3></div>
+       <div class=auto-btn4></div>
+   </div>
+  </div>
 
+ <div class="manual-navigation">
+     <label for="radio1" class="manual-btn"></label
+     <label for="radio2" class="manual-btn"></label
+     <label for="radio3" class="manual-btn"></label
+     <label for="radio4" class="manual-btn"></label
+ </div>
+    <script src="script.js"></script>
+    </imput>
+</body>
+</html>
