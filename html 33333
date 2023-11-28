@@ -1,45 +1,34 @@
-<DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/swiper@8/swiper-bundle.min.css"
-  />
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <main>
-    <span>SLIDER</span>
-    <div class="swiper">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide">
-            <div class="project-img">
-              <img src="./img/foto_01.png" alt="Foto 01">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="project-img">
-              <img src="./img/foto_02.png" alt="Foto 02">
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="project-img">
-              <img src="./img/foto_03.png" alt="Foto 03">
-            </div>
-          </div>
-        </div>
-      
-      <div class="swiper-button-next"></div>
-      <div class="swiper-button-prev"></div>
-      <div class="swiper-pagination"></div>
-    </div>
-  </main>
-
-  <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
-  <script src="script.js"></script>
-</body>
+<!DOCTYPE html>
+<html lang= ¨pt-BR">
+    <head>
+     <style>
+      mark{
+          backgrand-color:blue
+          }
+     </style>
+    </head>
+        <meta charset= ¨UTF-8¨> 
+        <meta name= ¨viewport¨ content= ¨width=devic-width initial-scale=1.0¨>
+        <link rel="shortcut icon" href="img1.png" type="image/x-icon">
+        <title> braian 28/jun/2023 </title>
+    </head>
+    <body>
+        <h1>28/jun/2023</h1>h1>
+        <h1>quem sou eu ?</h1> 
+        <p>sou um genio porem preguiçoso </p>
+        <img SCR="img1.png"alt="preguiça.com">        
+    </body>
 </html>
+  <li><ins>jogar futbol </ins> </li>
+        <li><ins>amo minha familia</ins></li>
+        <li><del>compre sua passagem aq preços em desconto 50%</del></li>
+        <d>
+            <ol type="i"start="s">
+        <ul><markI segunda</mark>mark</ul>
+        <ul>II terça</ul>
+        <ul>IIIquarta</ul>
+        <ul>IV qiunta</ul>
+        <ul>V sexta</ul>
+        <ul>VI sabado</ul>
+        <ul>VII domingo</ul>        
+        </d>
